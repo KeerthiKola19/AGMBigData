@@ -1,1 +1,2 @@
 this is my first file in the git.
+I updated this file after 10 mins.
